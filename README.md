@@ -1,4 +1,4 @@
 # ThesisDSS
-Repo for Master Thesis
+Repository for Master Thesis
 
-In my opinion the quality of the data sets is reduced due to the pre-processing codes that are implemented
+Both data and code is available for supervision of the Thesis process
